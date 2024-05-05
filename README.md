@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://cdn.neowin.com/news/images/uploaded/2023/04/1681430710_android-studio-logo-hero_itvlb9sxwyxu.jpg" alt="Aayush Radhanpara" width="300">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" alt="Aayush Radhanpara" width="200">
 <h1 align="center">Hello! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" height="30px">, I'm Aayush Radhanpara<img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width="6.5%"></h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
